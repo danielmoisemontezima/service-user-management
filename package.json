@@ -1,0 +1,19 @@
+{
+  "name": "needpam-backend2.0",
+  "version": "2.0.0",
+  "description": "New version of the backend of needpam in order to increase scalibility and performance.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laine Grace Endy, Montezima Daniel Moise",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.9.1",
+    "sequelize": "^6.37.1"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^6.6.2"
+  }
+}
